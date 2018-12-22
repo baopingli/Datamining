@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 **课程名称： 数据仓库与数据挖掘**
 
 **实验名称： 文本的分类**
