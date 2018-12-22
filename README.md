@@ -1,9 +1,10 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 **课程名称： 数据仓库与数据挖掘**
 
 **实验名称： 文本的分类**
 
-
+实验数据：链接：https://pan.baidu.com/s/14BhqH5ZivIRStEqb3Y1_cA
+提取码：waf0 
 
 实验目的
 ========
